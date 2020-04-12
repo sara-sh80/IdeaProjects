@@ -32,8 +32,8 @@ public class Group {
         return MassageList;
     }
 
-    public ArrayList<String> getUserIDs(){
-        ArrayList<String> IDs = new ArrayList<String>();
+    public ArrayList<Integer> getUserIDs(){
+        ArrayList<Integer> IDs = new ArrayList<Integer>();
         for(int i = 0;i < users.size(); ++i)
             IDs.add(users.get(i).getId());
         return IDs;
