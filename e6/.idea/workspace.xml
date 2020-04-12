@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5c325d05-fc1d-4963-ae24-b06892637c35" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1Yqyv5Aj4QzpLCAZ9NcKCl5a8yJ" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.circle">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="e6" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="circle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="circle" />
+      <module name="e6" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.circle" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.circle" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5c325d05-fc1d-4963-ae24-b06892637c35" name="Default Changelist" comment="" />
+      <created>1583684646757</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583684646757</updated>
+      <workItem from="1583684650708" duration="3855000" />
+      <workItem from="1584278964220" duration="2196000" />
+      <workItem from="1584365191777" duration="1553000" />
+      <workItem from="1584368039786" duration="974000" />
+      <workItem from="1584387555377" duration="1281000" />
+      <workItem from="1584389392284" duration="628000" />
+      <workItem from="1584435222312" duration="637000" />
+      <workItem from="1584437031524" duration="1158000" />
+      <workItem from="1584439639818" duration="1175000" />
+      <workItem from="1584441464533" duration="594000" />
+      <workItem from="1584447119316" duration="585000" />
+      <workItem from="1584455365323" duration="734000" />
+      <workItem from="1584535950926" duration="216000" />
+      <workItem from="1584946449861" duration="1345000" />
+      <workItem from="1584947925329" duration="1502000" />
+      <workItem from="1584949778210" duration="1244000" />
+      <workItem from="1585155722137" duration="1191000" />
+      <workItem from="1585563391537" duration="133000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>

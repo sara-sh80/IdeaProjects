@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2a49aac1-4d8a-4f40-a50d-91493dd7ada3" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1ZDxpx0sYcz8vHXIUL7iJ7rOzLu" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.course">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="e8" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="course" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="course" />
+      <module name="e8" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.course" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2a49aac1-4d8a-4f40-a50d-91493dd7ada3" name="Default Changelist" comment="" />
+      <created>1584387652866</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584387652866</updated>
+      <workItem from="1584387658430" duration="1657000" />
+      <workItem from="1584389407758" duration="614000" />
+      <workItem from="1584435281040" duration="820000" />
+      <workItem from="1584437046845" duration="2021000" />
+      <workItem from="1584439674799" duration="1710000" />
+      <workItem from="1584441508066" duration="1238000" />
+      <workItem from="1584447113096" duration="629000" />
+      <workItem from="1584455349108" duration="583000" />
+      <workItem from="1584535961252" duration="205000" />
+      <workItem from="1584946416218" duration="875000" />
+      <workItem from="1584947925235" duration="1174000" />
+      <workItem from="1584949358087" duration="295000" />
+      <workItem from="1584949791833" duration="1700000" />
+      <workItem from="1585155717494" duration="596000" />
+      <workItem from="1585563410089" duration="129000" />
+      <workItem from="1585563657936" duration="584000" />
+      <workItem from="1585581604066" duration="17000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
