@@ -9,8 +9,7 @@ public class User {
     private int Count;
     private String Name;
 
-    public User(int id,int count, String name){
-        this.Id = id;
+    public User(int count, String name){
         this.groups = new ArrayList<Group>();
         this.sentMessages = new ArrayList<Message>();
         this.Count = count;
@@ -35,6 +34,7 @@ public class User {
     public void sendMessage(String text, String date, User sender, Group g){
         Message newMassage = new Message(text, date, sender);
         g.sendMessage(newMassage);
+        sentMessages.add(newMassage);
     }
 
     public void addToGroups(Group g){
